@@ -57,7 +57,7 @@ Make sure you have the following installed:
 
 ```bash
 # Fork the repo on GitHub, then clone your fork
-git clone https://github.com/YOUR_USERNAME/trustlock.git
+git clone https://github.com/Trustlock-Protocol/Trustlock-Stellar.git
 cd trustlock
 ```
 
