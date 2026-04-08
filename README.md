@@ -96,7 +96,7 @@ For a full breakdown of every file and folder, see [docs/STRUCTURE.md](docs/STRU
 ### 1. Clone and Build the Contract
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/Trustlock-Protocol/Trustlock-Stellar.git
 cd trustlock/contract
 
 cargo build --target wasm32-unknown-unknown --release
